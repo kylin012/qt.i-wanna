@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iwanna/icon.png</file>
+        <file>iwanna/map1.png</file>
+        <file>iwanna/map2.png</file>
+        <file>iwanna/op1.gif</file>
+        <file>iwanna/apple.png</file>
+        <file>iwanna/cloud.png</file>
+        <file>iwanna/juchi.png</file>
+        <file>iwanna/juchi2.png</file>
+        <file>iwanna/kid1.png</file>
+        <file>iwanna/kid2.png</file>
+        <file>iwanna/kid3.png</file>
+        <file>iwanna/kid4.png</file>
+        <file>iwanna/map3.png</file>
+        <file>iwanna/op2.png</file>
+        <file>iwanna/startbutton.png</file>
+        <file>iwanna/bullet.png</file>
+    </qresource>
+</RCC>
